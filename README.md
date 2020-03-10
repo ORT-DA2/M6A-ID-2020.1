@@ -1,6 +1,6 @@
 # Clases
 
-##Introducción
+### Introducción
 * [Ambiente de desarrollo](/Clases/1%20-%20Introduccion.md)
 
 ## Excel GitHub
