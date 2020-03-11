@@ -5,7 +5,7 @@
 
 ## Excel GitHub
 
-* [Cuentas GitHub](https://drive.google.com/open?id=1U5scdMhSU8EGj0qYAyreMruGZR2SsoJ7FKdZK9C1Vfo)
+* [Cuentas GitHub](https://docs.google.com/spreadsheets/d/1U5scdMhSU8EGj0qYAyreMruGZR2SsoJ7FKdZK9C1Vfo/edit?usp=sharing)
 
 ## :email: Contacto 
 
